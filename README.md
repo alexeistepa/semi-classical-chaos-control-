@@ -6,7 +6,7 @@ Some notebooks from past projects:
 
 **Bifurcation diagrams** - notebook that generates nice bifurcation diagrams using datashader https://github.com/bokeh/datashader (it works best with lots of data generated over multiple hours). 
 
-![fullbifurcy_wide](https://github.com/alexeistepa/semi-classical-chaos-control-/blob/master/fullbifurcy_wide.png"fullbifurcy_wide")
+![fullbifurcy_wide](https://github.com/alexeistepa/semi-classical-chaos-control-/master/fullbifurcy_wide.png"fullbifurcy_wide")
 
 
 
