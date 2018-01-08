@@ -1,0 +1,38 @@
+
+!------------------------------------------------------------------
+! fSRK 0.121
+!------------------------------------------------------------------
+!2nd Order Weak Stochastic Runge-Kutta algorithm for numerically 
+!approximating the solution of stochastic ordinary differential
+!equations in Ito form, dx = f(x,t)*dt + g(x,t)*dW, where dW is a 
+!scalar Weiner noise process. Designed to be imported into python 
+!with the wrapper f2py.
+!------------------------------------------------------------------
+!Author: Alexei Stepanenko
+!-------------------------
+!----------
+!References 
+!----------
+!1. Breuer and Petruccione - The Theory of Open Quantum Systems pg 362
+!eq (7.47) - eq. (7.49).  
+!
+!2. Kloeden and Platen - Numerical solutions of stochastic differential 
+!equations pg 486 eq. (1.1). This book contains generalisations of this
+!algorithm to multiple Weiner processes.
+! 
+!3. Fortran Numerical Recipes pg 1297. General structure of code is 
+!from this book.
+!
+!4. Milstein and  Tretyakov - Stochastic Numerics for Mathematical Physics pg 104 eq. 2.20 .
+!
+!------
+!TO DO
+!------
+!- Generalise to multi-dimensional Wiener proccess.  
+!------
+!Changes
+!------
+!- Added time dependence to f and g (0p121)
+!-----------------------------------------------------------------------
+
+
