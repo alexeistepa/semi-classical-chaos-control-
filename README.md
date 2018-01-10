@@ -5,6 +5,8 @@
 
 **Bifurcation diagrams** - notebook that generates nice bifurcation diagrams using python package datashader (it works best with lots of data generated over multiple hours). Example of output: https://github.com/alexeistepa/semi-classical-chaos-control-/blob/master/Bifurcation%20Diagrams/Bifurcation%20diagrams/fullbifurcy_wide.png
 
-**fSRK** 2nd Order Weak Stochastic Runge-Kutta algorithm for simulating SDEs
+**fSRK** Efficient Fortran 2nd Order Weak Stochastic Runge-Kutta algorithm for simulating SDEs. Designed to be imported into python as a package. At the minute equations must be edited with the Fortran code.
 
-**Past Projects** Temporary
+**Past Projects** (Temporary) Past Projects in Chaos Theory
+
+**Recent Work** (Temporary) Recent work in Quantum Feedback (WIP)
