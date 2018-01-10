@@ -9,4 +9,4 @@
 
 **Past Projects** (Temporary) Past Projects in Chaos Theory
 
-**Recent Work** (Temporary) Recent work in Quantum Feedback (WIP)
+**Quantum Feedback** (Temporary) Recent work in Quantum Feedback (WIP)
