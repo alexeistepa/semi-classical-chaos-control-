@@ -173,7 +173,7 @@ subroutine fSRKstp(n, np, r0, t0, delt, nstp, P, rout, tout)
     do i = 1 , nstp
         ! Weiner 
         xi = normal()
-        dW = xi*dt    
+        dW = xi*sdt    
         
         ! Intermediate states
         call drift(n, np, tn, rn, P, f_rn_)
