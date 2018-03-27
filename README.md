@@ -7,6 +7,3 @@
 
 **fSRK** Efficient Fortran 2nd Order Weak Stochastic Runge-Kutta algorithm for simulating SDEs. Designed to be imported into python as a package. In the current version, equations must be edited within the Fortran code.
 
-**Past Projects** (Temporary) Past Projects in Chaos Theory
-
-**Quantum Feedback** (Temporary) Recent work in Quantum Feedback (WIP)
