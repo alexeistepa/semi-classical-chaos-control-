@@ -1,5 +1,6 @@
 # semi-classical-chaos-control-
 
+Various bits of code from my undergraduate days!
 
 **FindUpo**  An ipython widget that is designed to estimate the location of unstable periodic orbits in chaotic systems using the reccurence principle and machine learning clustering algorithms. Guide: https://github.com/alexeistepa/semi-classical-chaos-control-/blob/master/findUPO/FindUPO/FindUPO%20Guide.ipynb
 
